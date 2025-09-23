@@ -7,6 +7,6 @@ Full Stack en formación (Java Spring Boot · React · React Native · + Python)
 Aquí publico mis proyectos de estudio y práctica profesional.  
 
 ## Contacto  
-- Email: privado  
+- Email: jhonatan.avilacan@gmail.cmo
 - LinkedIn: (pendiente)  
-- WhatsApp: (pendiente)  
+- WhatsApp: (3114964649)  
